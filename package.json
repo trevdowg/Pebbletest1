@@ -1,0 +1,24 @@
+{
+    "author": "scritches@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Test1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "70c6dc66-04bd-4a94-ba71-51d6f7322ffa",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
